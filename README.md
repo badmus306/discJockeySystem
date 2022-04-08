@@ -1,1 +1,1 @@
-# disc_jockey_management
+# discJockeyManagement
